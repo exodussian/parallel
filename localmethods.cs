@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace parallel
 {
+    // buuu ortak fonksiyonlar falan burda toplancak
     public class localmethods
     {
+
+        //min max aralığında double random fonksiyonu
         public static double Randomic(double minimum, double maximum)
         {
             Random random = new Random();
