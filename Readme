@@ -4,6 +4,32 @@ localmethods.cs --- its so cold in ireland
 incoming file :  common variables.
 
 
+humanoid is a human simulation class
+
+that will simulate human behaviour like find food, eat food work for it "for now this primitive "
+
+as we do develop the human class with maybe millions of copy  in a program 
+
+will give us a society and economic simulator.
+
+with this engine.  
+
+My idea is to lead it two game ideas 
+
+OFFLINE Game
+1 - adding companies, land, banks and assets , and let humanoid produce , consume and trade in engine and 
+    player will lead the economy via setting some parameters ( something like superpower 2  economy )
+
+ONLINE GAME
+2 - billions of humanoids will be located on different sectors on world map,  player will connect to game via mobile phone 
+    according to real world coordinate of the player ( GPS singal (prevent gps cheating)) ,  he will connect to the market of humanoids
+    in sector and also same market conditions with other real players in same sector. 
+    Player will do trade on market try to make profit. ( Like patrician game but the ships are players :D) 
+    When player will go another place "physically"  prices will differ and our player will enjoy new opportunuties.
+
+
+TR:
+
 şöle bişe .  temel bi insan classı oluşturcam
 
 sabit te olabilir arta da bilir.
