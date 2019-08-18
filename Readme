@@ -6,7 +6,7 @@ incoming file :  common variables.
 
 humanoid is a human simulation class
 
-that will simulate human behaviour like find food, eat food work for it "for now this primitive "
+that will simulate human behaviour like find food, collect food, eat food, work for it "for now" for this primitive version
 
 as we do develop the human class with maybe millions of copy  in a program 
 
